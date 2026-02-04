@@ -1,0 +1,8 @@
+{
+  "name": "ComicAR: Augmented Reality Creator",
+  "description": "Create and view immersive AR experiences for comic books using your own images and content. Features AI-powered analysis and narration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
